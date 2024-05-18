@@ -1,1 +1,14 @@
 /* add your styles here */
+.App {
+    text-align: center;
+  }
+.image-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.image-container img {
+    width: 40%;
+    margin: 10px;
+}
+  
